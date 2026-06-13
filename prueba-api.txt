@@ -1,0 +1,1 @@
+El servidor responde con un estado que indica "datos recibidos". Después, muestra el nombre "María" y, por último, un mensaje de "Hola comunidad".

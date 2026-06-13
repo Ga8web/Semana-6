@@ -1,0 +1,4 @@
+{
+  "tipo": "calle en mal estado",
+  "descripcion": "La comunidad informa que la calle tiene huecos que perjudican a los ciudadanos que transitan diariamente por esa vía."
+}
